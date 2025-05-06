@@ -1,7 +1,10 @@
 🧩 Suite de Productivité Multi-Applications
+
+
 Une application de productivité complète pour iOS, développée avec SwiftUI et CoreData, conçue pour aider les utilisateurs à gérer leurs tâches, suivre leurs habitudes et prendre des notes — le tout en un seul endroit.
 
 ✍️ Fonctionnalités
+
 ✅ Gestion des Tâches
 Création, modification et suppression de tâches avec des gestes de glissement intuitifs
 
