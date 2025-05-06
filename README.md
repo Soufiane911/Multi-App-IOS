@@ -44,7 +44,9 @@ Statistiques de progression et visualisations
 Accès rapide à toutes les fonctionnalités de l’app
 
 ⚙️ Détails Techniques
+
 📐 Architecture
+
 Construit avec SwiftUI pour une interface moderne
 
 CoreData pour la persistance des données
@@ -52,6 +54,7 @@ CoreData pour la persistance des données
 Modèle architectural MVVM
 
 📄 Modèles de Données
+
 Tâche : titre, détails, priorité, date d’échéance, statut
 
 Habitude : nom, jours de la semaine, heure de rappel, suivi de complétion
@@ -61,6 +64,7 @@ HabitCompletion : suivi des habitudes quotidiennes
 Note : contenu, date de création, tags de catégorie
 
 🎨 Conception UI
+
 Interface moderne avec dégradés et ombres
 
 Animations personnalisées pour les interactions utilisateur
@@ -72,6 +76,7 @@ Indicateurs de progression et graphiques
 Mise en page responsive pour tous types d’appareils
 
 🔔 Notifications
+
 Notifications locales pour les rappels de tâches
 
 Rappels quotidiens pour les habitudes
@@ -79,6 +84,7 @@ Rappels quotidiens pour les habitudes
 Gestion des autorisations et restauration des notifications
 
 📱 Prérequis
+
 iOS 14.0+
 
 Xcode 12.0+
@@ -86,6 +92,7 @@ Xcode 12.0+
 Swift 5.3+
 
 🚀 Pour Commencer
+
 Clone le dépôt
 
 Ouvre le projet dans Xcode
@@ -93,6 +100,7 @@ Ouvre le projet dans Xcode
 Build & run sur un appareil ou simulateur
 
 🌱 Améliorations Futures
+
 Intégration avec le calendrier
 
 Support de synchronisation iCloud
